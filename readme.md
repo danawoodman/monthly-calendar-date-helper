@@ -1,6 +1,6 @@
 # monthly-calendar-date-helper
 
-> A simple utility that given a month and year returns an array of dates to be used in a monthly calendar. Shows previous and next months days to pad out the calendar so the calendar always starts on Sunday and lasts for 6 weeks.
+> A simple utility that given a month and year returns an array of dates to be used in a monthly calendar. Shows previous and next months days to pad out the calendar so the calendar always starts on Sunday and lasts for 6 weeks. Option to split by week.
 
 ## Installation
 
