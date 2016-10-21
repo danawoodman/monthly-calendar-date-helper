@@ -1,0 +1,20 @@
+{
+  "name": "monthly-calendar-date-helper",
+  "version": "0.1.0",
+  "description": "A simple utility that given a month and year returns an array of dates to be used in a monthly calendar. Shows previous and next months days to pad out the calendar so the calendar always starts on Sunday and lasts for 6 weeks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha '**/*.test.js'",
+    "watch-test": "npm test -- --watch"
+  },
+  "author": "Dana Woodman <dana@danawoodman.com> (http://danawoodman.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "array-range": "1.0.1",
+    "get-last-date-of-month": "1.0.0",
+    "split-array": "1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "3.1.2"
+  }
+}
