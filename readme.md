@@ -11,7 +11,7 @@ npm i -S monthly-calendar-date-helper
 
 ## Usage
 
-```
+```js
 import calendarDates from 'monthly-calendar-date-helper'
 
 // Returns and array of date objects, always equalling 42 days
